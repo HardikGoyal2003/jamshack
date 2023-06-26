@@ -29,18 +29,17 @@ through the levels.
 
 ## Installation
 
->Download the below in same folder
+>Download the below in same folder<br>
 https://drive.google.com/file/d/1mZVKGCPVWrf4E5y3-63UV08aN-LVjrr8/view?usp=sharing
 
->You should have installed 
->import pygame
-import random
-import moviepy.editor
-import pickle
-import os
-from pygame import mixer
-from savetime1 import *
-from moviepy.editor import *
+>You should have installed : <br>
+• import pygame<br>
+• import random<br>
+• import moviepy.editor<br>
+• import pickle<br>
+• import os<br>
+• from pygame import mixer<br>
+• from moviepy.editor import *<br>
 
 ## Usage
 
@@ -48,43 +47,43 @@ Run Video.py file rest its given in game itself in help menu
 
 ## Features
 
->>Character Control
->>Level Progression
->>Obstacle Challenges
->>Save System
->>Scoring System
+• Character Control<br>
+• Level Progression<br>
+• Obstacle Challenges<br>
+• Save System<br>
+• Scoring System<br>
 
 ## Technologies Used
 
->>Pygame
->>Adobe Photoshop
+• Pygame<br>
+• Adobe Photoshop<br>
 
 ## Contributing
 
-Others can contribute to project by following ways:
+Others can contribute to project by following ways:<br>
 
->>Mentioning bugs
->>Creating New Features
->>Giving Neww Ideas
+• Mentioning bugs<br>
+• Creating New Features<br>
+• Giving New Ideas<br>
 
 ## Contact
 
-MEMBERS:-
-1) HARDIK GOYAL
-• EMAIL ID:- hardikgoyal2003@gmail.com
-• GITHUB ID:- HardikGoyal2003
-• QUINE.SH ID:- HardikGoyal2003
-•https://www.linkedin.com/in/hardik-goyal-2093571aa/
+MEMBERS:-<br>
+1) HARDIK GOYAL<br>
+• EMAIL ID:- hardikgoyal2003@gmail.com<br>
+• GITHUB ID:- HardikGoyal2003<br>
+• QUINE.SH ID:- HardikGoyal2003<br>
+•https://www.linkedin.com/in/hardik-goyal-2093571aa/<br>
 
-2) AAYUSH SAXENA
-• EMAIL ID:- saxenapoornina290@gmail.com
-• GITHUB ID:- aayush0982
-• QUINE.SH ID:- aayush0982
+2) AAYUSH SAXENA<br>
+• EMAIL ID:- saxenapoornina290@gmail.com<br>
+• GITHUB ID:- aayush0982<br>
+• QUINE.SH ID:- aayush0982<br>
 
-3) DHRUV BHATNAGAR
-• EMAIL ID:- bhatnagardhruv.gzb@gmail.com
-• GITHUB ID:- DhruvBhatnagar2004
-• QUINE.SH ID:- DhruvBhatnagar2004
+3) DHRUV BHATNAGAR<br>
+• EMAIL ID:- bhatnagardhruv.gzb@gmail.com<br>
+• GITHUB ID:- DhruvBhatnagar2004<br>
+• QUINE.SH ID:- DhruvBhatnagar2004<br>
 
 
 
