@@ -13,7 +13,7 @@ This repository contains our team's submission for the Jamshack hackathon. Our p
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
+- [Contacts](#contacts)
 
 ## Project Overview
 
@@ -44,7 +44,7 @@ from moviepy.editor import *
 
 ## Usage
 
-Its given in game itself in help menu
+Run Video.py file rest its given in game itself in help menu
 
 ## Features
 
