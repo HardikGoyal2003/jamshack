@@ -73,12 +73,13 @@ MEMBERS:-<br>
 • EMAIL ID:- hardikgoyal2003@gmail.com<br>
 • GITHUB ID:- HardikGoyal2003<br>
 • QUINE.SH ID:- HardikGoyal2003<br>
-•https://www.linkedin.com/in/hardik-goyal-2093571aa/<br>
+•LINKED IN:- https://www.linkedin.com/in/hardik-goyal-2093571aa/<br>
 
 2) AAYUSH SAXENA<br>
 • EMAIL ID:- saxenapoornina290@gmail.com<br>
 • GITHUB ID:- aayush0982<br>
 • QUINE.SH ID:- aayush0982<br>
+•LINKED IN:-https://www.linkedin.com/in/dhruv-bhatnagar-a135b9262/<br>
 
 3) DHRUV BHATNAGAR<br>
 • EMAIL ID:- bhatnagardhruv.gzb@gmail.com<br>
