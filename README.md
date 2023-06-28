@@ -75,13 +75,13 @@ MEMBERS:-<br>
 • EMAIL ID:- saxenapoornina290@gmail.com<br>
 • GITHUB ID:- aayush0982<br>
 • QUINE.SH ID:- aayush0982<br>
-•LINKED IN:-https://www.linkedin.com/in/dhruv-bhatnagar-a135b9262/<br>
+
 
 3) DHRUV BHATNAGAR<br>
 • EMAIL ID:- bhatnagardhruv.gzb@gmail.com<br>
 • GITHUB ID:- DhruvBhatnagar2004<br>
 • QUINE.SH ID:- DhruvBhatnagar2004<br>
-
+•LINKED IN:-https://www.linkedin.com/in/dhruv-bhatnagar-a135b9262/<br>
 
 
 
