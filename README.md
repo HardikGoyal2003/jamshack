@@ -33,14 +33,10 @@ through the levels.
 https://drive.google.com/file/d/1mZVKGCPVWrf4E5y3-63UV08aN-LVjrr8/view?usp=sharing
 
 >You should have installed : <br>
-• import pygame<br>
-• import random<br>
-• import moviepy.editor<br>
-• import pickle<br>
-• import os<br>
-• from pygame import mixer<br>
-• from moviepy.editor import *<br>
-
+• pygame<br>
+• moviepy.editor<br>
+• pickle<br>
+• os<br>
 ## Usage
 
 Run Video.py file rest its given in game itself in help menu
