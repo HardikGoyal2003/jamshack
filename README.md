@@ -1,4 +1,4 @@
-# jamshack
+# Jamshack
 README.md
 
 # Hackathon Project Submission
