@@ -39,7 +39,7 @@ https://drive.google.com/file/d/1mZVKGCPVWrf4E5y3-63UV08aN-LVjrr8/view?usp=shari
 • os<br>
 ## Usage
 
-Run Video.py file rest its given in game itself in help menu
+Run Video.py file and click on new game in menu ,rest its given in game itself in help menu
 
 ## Features
 
